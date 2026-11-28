@@ -2,7 +2,7 @@
 names = ["aditya", "soham", "siva", "fayaz"]
 print(names)
 print(names[0])
-names[0] = "chaithanya"
+names[0] = "chaithu"
 print(names)
 print(names[::1])
 print(names[1:])
