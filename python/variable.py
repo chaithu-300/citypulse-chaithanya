@@ -7,3 +7,6 @@ print(name)
 print(type(age))
 print(type(attendance))
 print(type(is_present))
+
+
+
